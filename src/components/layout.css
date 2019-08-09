@@ -13,8 +13,14 @@ aside,
 details,
 figcaption,
 figure,
-footer,
-header,
+footer {
+  background: pink;
+  margin-bottom: 2rem;
+}
+header {
+  background: black;
+  margin-bottom: 1.45rem;
+}
 main,
 menu,
 nav,

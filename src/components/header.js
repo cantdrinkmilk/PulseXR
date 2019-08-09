@@ -4,10 +4,10 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
+    // style={{
+    //   background: `rebeccapurple`,
+    //   marginBottom: `1.45rem`,
+    // }}
   >
     <div
       style={{
@@ -18,9 +18,9 @@ const Header = ({ siteTitle }) => (
     >
 
       <Link to="/">Home</Link>
-      <Link to="/">Product</Link>
-      <Link to="/">Career</Link>
-      <Link to="/">Contact Us</Link>
+      <Link to="/product">Product</Link>
+      <Link to="/career">Career</Link>
+      <Link to="/contact">Contact</Link>
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
