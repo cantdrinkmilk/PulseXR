@@ -16,15 +16,23 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
+
+      <Link to="/">Home</Link>
+      <Link to="/">Product</Link>
+      <Link to="/">Go back to the homepage</Link>
+      <Link to="/">Career</Link>
+      <Link to="/">Contact Us</Link>
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
           style={{
-            color: `white`,
+            color: `White`,
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          
+          {"PulseXR"}
+
         </Link>
       </h1>
     </div>
