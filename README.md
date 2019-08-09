@@ -1,12 +1,4 @@
-# Gatsby Bulma Quickstart
-
-> A Quick Way to bootstrap your next Gatsby + Bulma site.
-
-![ss](https://i.imgur.com/Vz81GEl.png)
-
-## Demo 💯
-
-- [Demo Link](https://tender-raman-99e09b.netlify.com/)
+# PulseXR
 
 ## Features 🚀
 
@@ -29,16 +21,11 @@
 You need npm and Gatsby CLI installed on your development machine.
 
 ### 1. Clone the repository/Installation
-
-If you have Git installed on your system you can run the following command:
-
-`git clone https://github.com/amandeepmittal/gatsby-bulma-quickstart.git`
-
-Otherwise you can directly download it clicking on download button on this repository.
+git clone 
 
 ### 2. Running in development mode
 
-Go inside `gatsby-bulma-quickstart/` directory and run the following command:
+inside of PulseXR main directory 
 
 `npm run develop`
 
@@ -47,7 +34,7 @@ Go inside `gatsby-bulma-quickstart/` directory and run the following command:
 The site is now running at
 [http://localhost:8000](http://localhost:8000).
 
-Open `gatsby-bulma-quickstart/` directory in your code editor of choice and edit it. Save your changes and the browser will update them in real time!
+Open `PulseXR/` directory in your code editor of choice and edit it. Save your changes and the browser will update them in real time!
 
 ### 4. Add your own Google Analytics Id
 
@@ -63,10 +50,4 @@ resolve: `gatsby-plugin-google-analytics`,
   }
 ```
 
-## Contact me
 
-If you find any possible improvement or suggestion related to code or UI/UX please contribute by submitting a PR.
-
-You can also back or support this project for me to keep it updated by [**Buying Me a Coffee**](https://www.paypal.me/amanhimself/2)
-
-**Happy Coding!** 🎉🎉
