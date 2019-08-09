@@ -19,7 +19,6 @@ const Header = ({ siteTitle }) => (
 
       <Link to="/">Home</Link>
       <Link to="/">Product</Link>
-      <Link to="/">Go back to the homepage</Link>
       <Link to="/">Career</Link>
       <Link to="/">Contact Us</Link>
       <h1 style={{ margin: 0 }}>
