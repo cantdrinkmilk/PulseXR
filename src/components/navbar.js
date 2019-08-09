@@ -12,10 +12,10 @@ const Navbar = () => (
 				<div className="navbar-brand">
 					<a
 						className="navbar-item"
-						href="https://github.com/amandeepmittal/gatsby-bulma-quickstart"
+						href=""
 					>
 						<img src={gatsbyLogo} alt="Logo-1" />
-						<img src={bulmaLogo} alt="Logo-2" />
+						<img src={bulmaLogo} alt="Logo-2" /> Pulse XR
 					</a>
 				</div>
 				<div id="navbarMenuHeroA" className="navbar-menu">
@@ -23,7 +23,7 @@ const Navbar = () => (
 						<span className="navbar-item">
 							<a
 								className="button is-danger is-inverted"
-								href="https://github.com/amandeepmittal/gatsby-bulma-quickstart"
+								href=""
 							>
 								<span className="icon">
 									<FaGithub size="fa-2x" />

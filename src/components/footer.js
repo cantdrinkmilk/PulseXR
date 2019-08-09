@@ -23,14 +23,10 @@ const Footer = () => (
 			<footer className="footer center has-background-light">
 				<div className="content has-text-centered">
 					<p className="is-size-4">
-						This website was handcrafted with plenty cups of{' '}
+						Lots of Hard Work{' '}
 						<Emoji emoji="☕" />
 					</p>
-					<p className="is-size-4">
-						By Aman Mittal (@amahimself) using{' '}
-						<a href={data.site.siteMetadata.gatsby}>Gatsby</a> +{' '}
-						<a href={data.site.siteMetadata.bulma}>Bulma</a>
-					</p>
+					
 					<article className="media center">
 						<span className="icon">
 							<a href={data.site.siteMetadata.twitter}>
@@ -52,11 +48,7 @@ const Footer = () => (
 						&nbsp;
 					</article>
 					&nbsp;
-					<p className="is-size-5">
-						You can also back or support this project for me to keep it updated
-						by{' '}
-						<a href="https://www.paypal.me/amanhimself/2">Buying Me a Coffee</a>
-					</p>
+					
 				</div>
 			</footer>
 		)}
